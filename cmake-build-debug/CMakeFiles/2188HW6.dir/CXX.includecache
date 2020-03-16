@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dietb/CLionProjects/2188HW6/ArrayStack.h
+StackInterface.h
+C:/Users/dietb/CLionProjects/2188HW6/StackInterface.h
+cassert
+-
+
+C:/Users/dietb/CLionProjects/2188HW6/StackInterface.h
+
+C:/Users/dietb/CLionProjects/2188HW6/functions.h
+cstdio
+-
+algorithm
+-
+cassert
+-
+iostream
+-
+fstream
+-
+list
+-
+string
+-
+ArrayStack.h
+C:/Users/dietb/CLionProjects/2188HW6/ArrayStack.h
+
+C:/Users/dietb/CLionProjects/2188HW6/infixCalc.h
+
+C:/Users/dietb/CLionProjects/2188HW6/main.cpp
+infixCalc.h
+C:/Users/dietb/CLionProjects/2188HW6/infixCalc.h
+functions.h
+C:/Users/dietb/CLionProjects/2188HW6/functions.h
+
